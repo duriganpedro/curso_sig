@@ -30,7 +30,7 @@ O SATVEG é uma ferramenta da Embrapa para monitoramento da cobertura vegetal at
 
 ### ForestGIS
 Plataforma com diversos recursos para análises florestais e ambientais.
-- [Site ForestGIS](https://www.forestgis.com/)
+- [Site ForestGIS](https://www.forest-gis.com/)
 - [Plugin ForestGIS para QGIS](https://plugins.qgis.org/plugins/forestgis_plugin/)
 
 ### OpenStreetMap (OSM)
@@ -64,3 +64,4 @@ input/
 ## Próximos passos
 
 Na próxima aula, iremos aprofundar os conhecimentos práticos com exercícios de manipulação dos dados geográficos apresentados, utilizando o QGIS como principal ferramenta de trabalho.
+
