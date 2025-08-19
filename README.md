@@ -1,13 +1,11 @@
-
-
-**   ___        _     **
-**  / _ \  __ _(_)___ **
-** | | | |/ _` | / __| **
-** | |_| | (_| | \__ \ **
-**  \__\_\\__, |_|___/ **
-**       |___/       **
-
-
+```
+   ___        _     
+  / _ \  __ _(_)___ 
+ | | | |/ _` | / __|
+ | |_| | (_| | \__ \
+  \__\_\\__, |_|___/
+        |___/       
+```
 
 # curso_sig
 Curso de introdução a SIG, geoprocessamento, desenvolvimento metodológico e geração de produtos
